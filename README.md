@@ -1,5 +1,4 @@
 # HR Analytics Dashboard
-
 ## Objective
 Analyze employee demographics, salaries, performance ratings, and workforce trends.
 
